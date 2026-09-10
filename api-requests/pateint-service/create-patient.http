@@ -4,7 +4,7 @@ Content-Type: application/json
 
 {
   "name": "Armaan Mulani",
-  "email": "armaan@gmail.com",
+  "email": "",
   "address":"Pune, Maharashtra",
   "dateOfBirth": "2006-03-11",
   "registeredDate": "2026-09-10"
