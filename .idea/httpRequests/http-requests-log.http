@@ -1,3 +1,55 @@
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Armaan Mulani",
+  "email": "armaan@example.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11",
+  "registeredDate": "2026-09-10"
+}
+
+<> 2026-09-13T231256.201.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Armaan Mulani",
+  "email": "armaan.mulani@example.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11",
+  "registeredDate": "2026-09-10"
+}
+
+<> 2026-09-13T231242.400.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Armaan Mulani",
+  "email": "armaan.mulani@example.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11",
+  "registeredDate": "2026-09-10"
+}
+
+<> 2026-09-13T230804.500.json
+
+###
+GRPC localhost:9001/BillingService/CreateBillingAccount
+
+<> 2026-09-13T220705.OK.json
+
+###
+GRPC localhost:9001/BillingService/CreateBillingAccount
+
+<> 2026-09-13T214138.OK.json
+
+###
 GET http://localhost:4000/patients
 
 <> 2026-09-13T194740.200.json
