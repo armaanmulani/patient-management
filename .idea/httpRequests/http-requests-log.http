@@ -1,3 +1,81 @@
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Jon Doe",
+  "email": "john.doe@gmail.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11"
+}
+
+<> 2026-09-13T124820.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Jon Doe",
+  "email": "john.doe@gmail.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11"
+}
+
+<> 2026-09-13T124805.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Jon Doe",
+  "email": "john.doe@gmail.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11"
+}
+
+<> 2026-09-13T124507.400.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Armaan Mulani",
+  "email": "john.doe@example.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11"
+}
+
+<> 2026-09-13T124445.400.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Jon Doe",
+  "email": "john.doe@gmail.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11"
+}
+
+<> 2026-09-13T123530.200.json
+
+###
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Armaan Mulani",
+  "email": "john.doe@example.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11"
+}
+
+<> 2026-09-13T123443.400.json
+
+###
 POST http://localhost:4000/patients
 Content-Type: application/json
 
