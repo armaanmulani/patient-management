@@ -1,3 +1,18 @@
+GET http://localhost:4005/validate
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc5MDAxODIxMSwiZXhwIjoxNzkwMDU0MjExfQ.JLUEiT4bpQ8c7k_9R4o0uad6ULRGPGrK8NsSuIDEhX4
+
+###
+POST http://localhost:4005/login
+Content-Type: application/json
+
+{
+  "email": "testuser@test.com",
+  "password": "password123"
+}
+
+<> 2026-09-22T004651.200.json
+
+###
 POST http://localhost:4005/api/auth/login
 Content-Type: application/json
 
