@@ -2,6 +2,48 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
+  "name": "Armaan Mulani Kafka Test",
+  "email": "armaanmulani941@kafkatest1.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11",
+  "registeredDate": "2026-09-10"
+}
+
+<> 2026-09-21T195037.201.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Armaan Mulani Kafka Test",
+  "email": "armaanmulani941@kafka-test.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11",
+  "registeredDate": "2026-09-10"
+}
+
+<> 2026-09-21T194002.201.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Armaan Mulani Kafka Test",
+  "email": "armaanmulani941@kafkatest.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11",
+  "registeredDate": "2026-09-10"
+}
+
+<> 2026-09-21T193456.201.json
+
+###
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
   "name": "Armaan Mulani",
   "email": "armaanmulani941@example.com",
   "address":"Pune, Maharashtra",
