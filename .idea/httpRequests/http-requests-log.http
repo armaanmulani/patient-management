@@ -1,3 +1,23 @@
+GET http://localhost:4004/api/patients
+
+<> 2026-09-21T201315.200.json
+
+###
+GET http://localhost:4004/api/patients
+
+<> 2026-09-21T201031.404.json
+
+###
+GET http://localhost:4004/api/patients
+
+<> 2026-09-21T201013.404.json
+
+###
+GET http://localhost:4004/patients
+
+<> 2026-09-21T200956.404.json
+
+###
 POST http://localhost:4000/patients
 Content-Type: application/json
 
