@@ -1,3 +1,23 @@
+GET http://localhost:4004/api/patients
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc5MTI2NzI2MywiZXhwIjoxNzkxMzAzMjYzfQ.KyW6i5684dAXT9JCImQxU0syzjtCLSd6JCCfFNXXMQ0
+
+<> 2026-10-06T114533.200.json
+
+###
+GET http://localhost:4004/api/patients
+
+###
+POST http://localhost:4004/auth/login
+Content-Type: application/json
+
+{
+  "email": "testuser@test.com",
+  "password": "password123"
+}
+
+<> 2026-10-06T114423.200.json
+
+###
 GET http://localhost:4004/auth/validate
 Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc5MDAxODU2NywiZXhwIjoxNzkwMDU0NTY3fQ.87GGV56MLg2BgezNkPIq-XjtTTZLxZOqKGjBO5wH_y0
 
