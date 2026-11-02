@@ -19,15 +19,18 @@
       <option name="ignoredModules">
         <list>
           <option value="integration-tests" />
+          <option value="infrastructure" />
         </list>
       </option>
       <option name="ignoredPackages">
         <list>
           <option value="commons-codec:commons-codec:1.11" />
+          <option value="com.fasterxml.jackson.core:jackson-core:2.22.2" />
         </list>
       </option>
       <option name="ignoredReasons">
         <list>
+          <option value="Not exploitable" />
           <option value="Not exploitable" />
         </list>
       </option>
