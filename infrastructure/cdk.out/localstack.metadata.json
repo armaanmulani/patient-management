@@ -18,6 +18,32 @@
       ]
     }
   ],
+  "/localstack/AuthServiceDBHealthCheck": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AuthServiceDBHealthCheck"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...jsii runtime, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/localstack/PatientServiceDBHealthCheck": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "PatientServiceDBHealthCheck"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...jsii runtime, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
   "/localstack/PatientManagementVPC/Resource": [
     {
       "type": "aws:cdk:logicalId",
@@ -57,6 +83,32 @@
       ]
     }
   ],
+  "/localstack/AuthServiceDB/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AuthServiceDBC6B688BA"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/localstack/PatientServiceDB/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "PatientServiceDBB84F9BF9"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
   "/localstack/PatientManagementVPC/PublicSubnet1/Subnet": [
     {
       "type": "aws:cdk:logicalId",
@@ -65,7 +117,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -79,7 +131,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -93,7 +145,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -107,7 +159,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:225 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:225 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib, jsii runtime..."
       ]
@@ -147,7 +199,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -161,7 +213,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -175,7 +227,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -189,7 +241,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:225 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:225 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib, jsii runtime..."
       ]
@@ -229,7 +281,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -243,7 +295,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -257,7 +309,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -284,7 +336,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -298,7 +350,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -312,7 +364,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-gZiYYL\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -322,6 +374,110 @@
     {
       "type": "aws:cdk:logicalId",
       "data": "PatientManagementVPCPrivateSubnet2DefaultRoute98121A2D"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/localstack/AuthServiceDB/SubnetGroup/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AuthServiceDBSubnetGroupCFE5A552"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/localstack/AuthServiceDB/SecurityGroup/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AuthServiceDBSecurityGroupBE6D28EB"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/localstack/AuthServiceDB/Secret/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "localstackAuthServiceDBSecretE93C53FD3fdaad7efa858a3daf9490cf0a702aeb"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/localstack/PatientServiceDB/SubnetGroup/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "PatientServiceDBSubnetGroupCED49D16"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/localstack/PatientServiceDB/SecurityGroup/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "PatientServiceDBSecurityGroup6B97C0E5"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/localstack/PatientServiceDB/Secret/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "localstackPatientServiceDBSecret20E0A9443fdaad7efa858a3daf9490cf0a702aeb"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/localstack/AuthServiceDB/Secret/Attachment/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AuthServiceDBSecretAttachmentF30406A9"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, jsii runtime...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/localstack/PatientServiceDB/Secret/Attachment/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "PatientServiceDBSecretAttachment90D77B03"
     },
     {
       "type": "aws:cdk:creationStack",
