@@ -44,6 +44,19 @@
       ]
     }
   ],
+  "/localstack/MskCluster": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MskCluster"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...jsii runtime, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
   "/localstack/PatientManagementVPC/Resource": [
     {
       "type": "aws:cdk:logicalId",
@@ -117,7 +130,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -131,7 +144,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -145,7 +158,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -159,7 +172,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:225 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:225 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib, jsii runtime..."
       ]
@@ -199,7 +212,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -213,7 +226,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -227,7 +240,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:287 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -241,7 +254,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:225 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:225 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib, jsii runtime..."
       ]
@@ -281,7 +294,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -295,7 +308,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -309,7 +322,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -336,7 +349,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -350,7 +363,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
@@ -364,7 +377,7 @@
     {
       "type": "aws:cdk:creationStack",
       "data": [
-        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-JnVxZS\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
+        "...C:\\Users\\armaa\\AppData\\Local\\Temp\\jsii-kernel-qsUh6d\\node_modules\\aws-cdk-lib\\aws-ec2\\lib\\vpc.js:1:289 in aws-cdk-lib...",
         "Array.forEach (:)",
         "...aws-cdk-lib..."
       ]
