@@ -1,3 +1,42 @@
+GET http://lb-b2d9b081.elb.localhost.localstack.cloud:4004/api/patients
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc5NDYzOTk3NywiZXhwIjoxNzk0Njc1OTc3fQ.5XU1QKbbW39iN_tlpGWlPiiGkRMLM7w7azO57JHX2w8
+
+<> 2026-11-14T123748.200.json
+
+###
+POST http://lb-b2d9b081.elb.localhost.localstack.cloud:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Armaan Mulani Kafka Test",
+  "email": "armaanmulani941@kafkatest1.com",
+  "address":"Pune, Maharashtra",
+  "dateOfBirth": "2006-03-11",
+  "registeredDate": "2026-09-10"
+}
+
+<> 2026-11-14T123727.201.json
+
+###
+GET http://lb-b2d9b081.elb.localhost.localstack.cloud:4004/auth/validate
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc5NDYzOTk3NywiZXhwIjoxNzk0Njc1OTc3fQ.5XU1QKbbW39iN_tlpGWlPiiGkRMLM7w7azO57JHX2w8
+
+###
+GET http://lb-b2d9b081.elb.localhost.localstack.cloud:4004/auth/validate
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc5NDYzOTk3NywiZXhwIjoxNzk0Njc1OTc3fQ.5XU1QKbbW39iN_tlpGWlPiiGkRMLM7w7azO57JHX2w8
+
+###
+POST http://lb-b2d9b081.elb.localhost.localstack.cloud:4004/auth/login
+Content-Type: application/json
+
+{
+  "email": "testuser@test.com",
+  "password": "password123"
+}
+
+<> 2026-11-14T123617.200.json
+
+###
 GET http://localhost:4004/api/patients
 Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc5MTI2NzI2MywiZXhwIjoxNzkxMzAzMjYzfQ.KyW6i5684dAXT9JCImQxU0syzjtCLSd6JCCfFNXXMQ0
 
