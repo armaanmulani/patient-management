@@ -1,0 +1,22 @@
+cd ~/Documents/patient-management
+cat << 'EOF' >> .gitignore
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven & Java
+target/
+*.log
+
+# AWS CDK
+cdk.out/
+.cdk.staging/
+
+# OS / Env
+.DS_Store
+Thumbs.db
+.env
+EOF
