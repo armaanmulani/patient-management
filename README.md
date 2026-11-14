@@ -279,7 +279,6 @@ Documented as not-yet-built, deliberately, rather than implied as done:
 - Successful production deployment to real AWS (current work is LocalStack-verified only)
 - Fully operational end-to-end deployment of every service on ECS
 - Production-grade high availability / auto-scaling
-- Confirmed database engine for Billing, Auth, and Analytics services (currently only Patient Service's H2 is confirmed)
 - Refresh-token authentication and role-based authorization (RBAC)
 - CI/CD pipeline
 - Kubernetes and/or Terraform as an alternative/complement to CDK
