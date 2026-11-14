@@ -4,3 +4,8 @@ spring:
 
 server:
   port: 4005
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    url: /v3/api-docs

@@ -1,6 +1,17 @@
 server:
   port: 4004
 
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    urls:
+      - name: Patient Service
+        url: /api-docs/patients
+      - name: Auth Service
+        url: /api-docs/auth
+    urls-primary-name: Patient Service
+    config-url: /v3/api-docs/swagger-config
+
 spring:
   cloud:
     gateway:
@@ -35,3 +46,17 @@ spring:
                 - Path=/api-docs/auth
               filters:
                 - RewritePath=/api-docs/auth,/v3/api-docs
+
+            - id: swagger-ui-auth-route
+              uri: http://host.docker.internal:4005
+              predicates:
+                - Path=/auth/swagger-ui/**
+              filters:
+                - StripPrefix=1
+
+            - id: swagger-ui-patient-route
+              uri: http://host.docker.internal:4000
+              predicates:
+                - Path=/patients/swagger-ui/**
+              filters:
+                - StripPrefix=1
